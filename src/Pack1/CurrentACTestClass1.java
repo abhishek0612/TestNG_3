@@ -22,6 +22,10 @@ public class CurrentACTestClass1 {
  public void test3() {
 	 System.out.println("We have added test3 for git "); 
  }
+ public void test4() {
+	 
+	 System.out.println("verify that git branching");	 
+ }
  
  
 }
