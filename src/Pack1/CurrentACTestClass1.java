@@ -19,6 +19,9 @@ public class CurrentACTestClass1 {
 	 System.out.println("Current a/c testcas2");
  }
  
+ public void test3() {
+	 System.out.println("We have added test3 for git "); 
+ }
  
  
 }
